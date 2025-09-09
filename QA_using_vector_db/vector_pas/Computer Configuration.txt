@@ -1,0 +1,53 @@
+Assignment 1 - Tasks
+
+1) All the available processors
+2) What is the use of RAM 
+3) Computer configuration - be able to explain each part
+4) What are various types of HardDisks and storage media
+5) What are 32 bit and 64 bit architectures
+
+1) Processors process the required instruction to run the application or to do some task.
+   The main processors brands are as follows:
+   
+   -For windows/Linux PCs:
+   >Intel
+   i3,i5,i7,i9
+   i3 is used for basic tasks like browsing,word, etc while the highest i9 is used for gaming,AI,professional editing ,etc.
+   i5 is mid range and i7 is high performance used for coding and editing,etc.
+
+   >AMD
+   AMD has its own processors very similar to intel processors namely:
+   Ryzen 3,Ryzen 5,Ryzen 7,Ryzen 9
+   Their performance is very similar to that of intel processors but these are much affordable.
+
+   -For apple devices:
+   >Apple silicon processors
+   M1,M2,M3
+   Apple used to use intel processors until 2020 but later on shifted to producing its own processors
+   They are different from other processes as these chips combine RAM,GPU and CPU into one single chip. 
+
+   -For mobile phones/tablets
+   >Snapdragon
+   
+2) RAM is Random Access Memory which is temporary memory used by the computer to store the data of what one is currently working on.
+   Low RAM results is low multitasking and vise versa.
+
+3) Computer Configuration consists of the parts as follows:
+   >Processor : Used to process the instructions to run any application or do some task in the system.
+   >RAM : Random Access Memory which is temporary memory used by the computer to store the data of what one is currently working on.
+   >GPU : Graphical processing unit which is responsible to the visual appearance and effects of the system.
+   >OS : Which controls all the other softwares and hardware in the system.
+   >Storage : Which is a permanent storage for all the files and sotwares.
+   >System type : It determines how much RAM of the system can be use and which all apps the system can use.
+
+4) The various types of HardDisks and storage medias are as follows:
+   >SSDs : Solid state disk which are used for storing the files and softwares.
+   >HDDs : Hard disk devices which are old storage devices which are slow but cheap.
+   >NVMe SDDs : These are newer version of SDDs which are used and they are very fast.
+   >USB Drives : Used for storage and backup.
+   >SD card : Secure digital cards which are mainly used to store photos and videos, etc.
+
+5) Different bit architectures are used for determining how much RAM can be used for which the system supports.
+   32 bit architecture allows the user to use upto 4GB RAM no matter how much the available RAM is.
+   64 bit architecture allows the user to use 128GB or more RAM.  
+  
